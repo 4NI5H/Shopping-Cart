@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Shopping-Cart
+A React based app for a shopping cart using Context API for state management.
 
 ## Available Scripts
 
