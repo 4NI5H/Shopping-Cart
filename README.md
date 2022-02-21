@@ -1,5 +1,5 @@
 # Shopping-Cart
-A React based app for a shopping cart using Context API for state management.
+A React app for shopping cart using Context API for state management and includes feature like filtering product based on fast delivery, ratings, price.
 
 ## Available Scripts
 
